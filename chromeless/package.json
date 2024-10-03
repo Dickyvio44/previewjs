@@ -26,7 +26,7 @@
     "@previewjs/iframe": "^16.2.1",
     "@previewjs/properties": "^5.0.3",
     "@previewjs/vfs": "^2.1.1",
-    "express": "^4.18.2",
+    "express": "^4.20.0",
     "pino": "^8.17.2",
     "playwright": "^1.40.1",
     "typescript": "^5.3.3"
